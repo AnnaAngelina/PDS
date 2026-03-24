@@ -36,3 +36,38 @@ São dispendiosos de manter e arriscados de evoluir
 Enfrentou crise por estimativas de prazo, insatisfação do cliente, dificuldade de manter.
 
 *A engenharia de software é importante pois nos capacita para o desenvolvimento de sistemas complexos*
+
+## Engenharia de software
+Foco na qualidade, processos e métodos, além das ferramentas que ajudam no suporte automatizado (CASE)
+
+A engenharia de software são os processos que envolvem desde a concepção do sistema até a sua morte:
+
+- Concepção;
+- Planejamento;
+- Desenvolvimento;
+- Implantação;
+- Manutenção;
+- Morte.
+
+### Como elaborar softwares com qualidade
+
+- Entender o problema;
+- Projetar;
+- Facilitar a manutenção.
+
+### Princípios
+
+- Evitar dependência de determinadas pessoas ou processos;
+- Formalidade: reduz inconsistências;
+- Abstração: aspectos importantes, ignorar detalhes;
+- Decomposição: Subdividir problemas complexos;
+- Generalização: Reutilizar resultados (código);
+- Flexibilização: mudanças, processo incremental.
+
+### Atividades principais
+
+- Especificação;
+- Modelagem;
+- Implementação;
+- Verificação;
+- Evolução.
