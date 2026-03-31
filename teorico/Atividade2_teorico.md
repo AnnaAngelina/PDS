@@ -17,4 +17,4 @@ experiência (Quais as dificuldades encontradas? Houve
 algum dos “mitos”? Como foi o processo após a entrega?).
 
 Sim. As dificuldades implicam essencialmemte no prlnejamento e parte inicial de levantamento de passos, requisitos, ou seja, todo o processo que mediará e determinará o desenvolvmineto e a conquista das metas e objetovos da equipe e, principalmente, do cliente.
-Por isso, o acordo com a equipe é muito importante
+Por isso, o acordo com a equipe é muito importante e o processo tende a ser nebuloso, pois, a realidade o projeto está em suas mãos
