@@ -59,7 +59,7 @@ produzidos em menos tempo e de forma mais econômica que o habitual. Ele é indi
 
 #### SCRUM
 
-Planejamento de projetos de software em uma equipe que colabora, trabalha junto
+Planejamento de projetos de software em uma equipe que colabora, trabalha junto. Possui um quaro de funções e tarefas que serão acompanhadas diariamente.
 
 - Três pilares:
   Transparência
